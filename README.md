@@ -1,7 +1,5 @@
 # 🌿 Bruxaria Natural & Verde
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ssaralopes)
-
 ### Um Caderno Temático construído com NotebookLM
 
 > *Entre folhas, histórias e dados, existem muitas formas de conhecer.*
