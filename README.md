@@ -8,7 +8,7 @@
 
 ### 🔮 Acesse o caderno
 
-[![NotebookLM](https://img.shields.io/badge/ABRIR%20O%20CADERNO%20NO%20NOTEBOOKLM-2E7D32?style=for-the-badge&logo=google&logoColor=white)](https://notebook.google.com/notebook/8ca8b68a-8e03-42db-97a0-770cae95f0b2/preview)
+[![NotebookLM](https://img.shields.io/badge/NOTEBOOKLM-6A1B9A?style=for-the-badge&logo=google&logoColor=white)](https://notebook.google.com/notebook/8ca8b68a-8e03-42db-97a0-770cae95f0b2/preview)
 
 Um experimento de aprendizagem ativa que une **Inteligência Artificial, curadoria de fontes, natureza, plantas, história, folclore, simbolismo e ciência**.
 
