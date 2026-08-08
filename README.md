@@ -4,12 +4,8 @@
 
 > *Entre folhas, histórias e dados, existem muitas formas de conhecer.*
 
-<br>
-
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ssaralopes)
 [![NotebookLM](https://img.shields.io/badge/NotebookLM-2E7D32?style=for-the-badge&logo=google&logoColor=white)](https://notebook.google.com/notebook/8ca8b68a-8e03-42db-97a0-770cae95f0b2/preview)
-
-<br>
 
 Um experimento de aprendizagem ativa que une **Inteligência Artificial, curadoria de fontes, natureza, plantas, história, folclore, simbolismo e ciência**.
 
