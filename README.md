@@ -6,7 +6,8 @@
 
 <br>
 
-**[ 🔮 ACESSAR O CADERNO NO NOTEBOOKLM ](https://notebook.google.com/notebook/8ca8b68a-8e03-42db-97a0-770cae95f0b2/preview)**
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ssaralopes)
+[![NotebookLM](https://img.shields.io/badge/NotebookLM-2E7D32?style=for-the-badge&logo=google&logoColor=white)](https://notebook.google.com/notebook/8ca8b68a-8e03-42db-97a0-770cae95f0b2/preview)
 
 <br>
 
