@@ -1,11 +1,14 @@
 # 🌿 Bruxaria Natural & Verde
 
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ssaralopes)
+
 ### Um Caderno Temático construído com NotebookLM
 
 > *Entre folhas, histórias e dados, existem muitas formas de conhecer.*
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ssaralopes)
-[![NotebookLM](https://img.shields.io/badge/NotebookLM-2E7D32?style=for-the-badge&logo=google&logoColor=white)](https://notebook.google.com/notebook/8ca8b68a-8e03-42db-97a0-770cae95f0b2/preview)
+### 🔮 Acesse o caderno
+
+[![NotebookLM](https://img.shields.io/badge/ABRIR%20O%20CADERNO%20NO%20NOTEBOOKLM-2E7D32?style=for-the-badge&logo=google&logoColor=white)](https://notebook.google.com/notebook/8ca8b68a-8e03-42db-97a0-770cae95f0b2/preview)
 
 Um experimento de aprendizagem ativa que une **Inteligência Artificial, curadoria de fontes, natureza, plantas, história, folclore, simbolismo e ciência**.
 
@@ -411,11 +414,19 @@ Se você chegou até aqui, o próximo passo é sair da documentação e entrar n
 
 Construído com:
 
-* [NotebookLM](https://notebooklm.google.com/)
+* [![NotebookLM](https://img.shields.io/badge/NotebookLM-2E7D32?style=for-the-badge&logo=google&logoColor=white)](https://notebook.google.com/notebook/8ca8b68a-8e03-42db-97a0-770cae95f0b2/preview)
 * GitHub
 * Curadoria de fontes abertas
 * Engenharia de prompts
 * Aprendizagem ativa
+
+---
+## 🌙 Contato
+
+Se este projeto despertou sua curiosidade, você pode me encontrar por aqui:
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ssaralopes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ssaralopes/)
 
 ---
 
@@ -424,5 +435,5 @@ Construído com:
 </p>
 
 <p align="center">
-  <i>Um pequeno caderno sobre plantas, histórias e as muitas maneiras de conhecer o mundo.</i>
+  <i>Um pequeno caderno sobre plantas, histórias e as muitas maneiras de conhecer o mundo. Feito com curiosidade, pesquisa e um pouco de magia.</i>
 </p>
