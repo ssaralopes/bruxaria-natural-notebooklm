@@ -414,7 +414,7 @@ Se você chegou até aqui, o próximo passo é sair da documentação e entrar n
 
 Construído com:
 
-* [![NotebookLM](https://img.shields.io/badge/NotebookLM-2E7D32?style=for-the-badge&logo=google&logoColor=white)](https://notebook.google.com/notebook/8ca8b68a-8e03-42db-97a0-770cae95f0b2/preview)
+* NotebookLM
 * GitHub
 * Curadoria de fontes abertas
 * Engenharia de prompts
