@@ -105,10 +105,6 @@ Transformar o NotebookLM em uma **biblioteca crítica e interdisciplinar**, e n�
 
 <br>
 
-### 🌿 [ ACESSAR O CADERNO NO NOTEBOOKLM ]
-
-> **Substitua este botão pelo link compartilhável do NotebookLM.**
-
 ---
 
 # 🕯️ Uma biblioteca, não um grimório
@@ -393,16 +389,6 @@ E novas conexões podem surgir entre natureza, cultura, história e ciência.
 Porque talvez essa seja uma das coisas mais bonitas de estudar:
 
 > **quanto mais aprendemos, mais perguntas encontramos.**
-
----
-
-## 🔮 Explore o caderno
-
-Se você chegou até aqui, o próximo passo é sair da documentação e entrar no próprio caderno.
-
-### **[ 🌿 ABRIR O NOTEBOOKLM ]**
-
-*Entre, faça uma pergunta, escolha uma planta, investigue uma história. O caderno está esperando.*
 
 ---
 
